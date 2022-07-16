@@ -4,7 +4,6 @@
   <h3>implementing CI</h3>
   <p>
   Trying to add CI using webhook
-    Checking the CI integration
   </p>
 </body>
 </html>
